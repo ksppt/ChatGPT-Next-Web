@@ -117,8 +117,8 @@ function Screen() {
           <Route path={Path.Chat} element={<Chat />} />
           <Route path={Path.Settings} element={<Settings />} />
         </Routes>
-      ‹div className={styles["sidebar-header"]}>
-    <div className={styles["sidebar-title"]}>ksppt.top‹/div>
+      </div>
+    </div>
   );
 }
 
