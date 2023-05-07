@@ -117,10 +117,7 @@ function Screen() {
           <Route path={Path.Chat} element={<Chat />} />
           <Route path={Path.Settings} element={<Settings />} />
         </Routes>
-    </form>
-    <div class="detail">
-            <a target="_blank" href="https://www.ksppt.top" class="a">购买地址</a>
-            <a target="_blank" href="https://www.ksppt.top" class="a" style="margin-left: 15px;">购买地址</a>
+      </div>
     </div>
   );
 }
